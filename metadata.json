@@ -1,0 +1,5 @@
+{
+  "name": "HireCipher",
+  "description": "An AI-powered resume parsing application for HR and recruiting teams. Upload resumes and leverage AI to extract key candidate information, making it easier to find the perfect fit for any role.",
+  "requestFramePermissions": []
+}
